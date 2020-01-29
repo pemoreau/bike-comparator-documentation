@@ -116,4 +116,10 @@ export {
   // FaRegSun,
   // FaMicrophoneAlt,
   FaRegListAlt,
+  FaTools,
 } from "react-icons/fa"
+
+
+export { MdDirectionsBike } from "react-icons/md";
+export { GoTools } from "react-icons/go";
+

@@ -310,7 +310,7 @@ class Layout extends React.Component {
         >
           <Logo color="currentColor" size="36px" />
           <div sx={{ mt: 2 }}>
-            Built with
+            Documentation générée avec
             {` `}
             {/*
               PLEASE DO NOT REMOVE THIS LINK.

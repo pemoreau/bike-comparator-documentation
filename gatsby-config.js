@@ -1,22 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Free Help Center`,
-    author: `Dominik Ferber`,
+    title: `Bike Comparator Documentation`,
+    author: `Pierre-Etienne Moreau`,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
-    description: `Get a free self-hosted Help Center like this one`,
+    description: `Bike Comparator : pour bien régler votre prochain vélo`,
     siteUrl: `https://help.dferber.de/`,
-    language: "en",
+    language: "fr",
     texts: {
-      allCollectionsText: "All Collections",
-      searchPlaceholderText: "Search for answers…",
+      allCollectionsText: "Toutes les Collections",
+      searchPlaceholderText: "Chercher des réponses…",
       lastModifiedText: "Last edited",
-      publishedOnText: "Published on",
-      writtenByText: "Written by",
-      articlesInCollectionZeroText: "articles in this collection",
-      articlesInCollectionOneText: "article in this collection",
-      articlesInCollectionTwoText: "articles in this collection",
-      articlesInCollectionMultipleText: "articles in this collection",
+      publishedOnText: "Publié le",
+      writtenByText: "Ecrit par",
+      articlesInCollectionZeroText: "articles dans cette collection",
+      articlesInCollectionOneText: "article dans cette collection",
+      articlesInCollectionTwoText: "articles dans cette collection",
+      articlesInCollectionMultipleText: "articles dans cette collection",
     },
   },
   mapping: {
@@ -99,5 +99,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/bike-comparator-help-center",
+  pathPrefix: "/bike-comparator-documentation",
 }

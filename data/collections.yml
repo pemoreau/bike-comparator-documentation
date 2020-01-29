@@ -24,9 +24,15 @@
 
 - id: introduction
   title: Introduction
-  description: Brief overview of the free help center
-  icon: "FaRegHandPeace"
+  description: Les paramètres importants d'un vélo
+  icon: "MdDirectionsBike"
   articles:
-    - file: ../content/welcome/index.md
+    - file: ../content/introduction/index.md
 
+- id: utilisation
+  title: Utiliser le comparateur
+  description: Régler son nouveau vélo à l'identique
+  icon: "GoTools"
+  articles:
+    - file: ../content/utilisation/index.md
 
