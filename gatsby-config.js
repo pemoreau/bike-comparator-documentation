@@ -99,4 +99,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: "/bike-comparator-help-center",
 }
