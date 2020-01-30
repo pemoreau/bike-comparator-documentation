@@ -2,10 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Bike Comparator Documentation`,
     author: `Pierre-Etienne Moreau`,
-    // You'd normally use a description like
-    // "Advice and answers by the MyCompany-Team"
     description: `Bike Comparator : pour bien régler votre prochain vélo`,
-    siteUrl: `https://help.dferber.de/`,
+    siteUrl: `https://pemoreau.github.io/bike-comparator-documentation/`,
     language: "fr",
     texts: {
       allCollectionsText: "Toutes les Collections",

@@ -23,8 +23,8 @@
 #         - file: ../content/whales/index.md
 
 - id: introduction
-  title: Introduction
-  description: Les paramètres importants d'un vélo
+  title: Bien choisir son prochain vélo
+  description: Trouver le cadre idéal
   icon: "MdDirectionsBike"
   articles:
     - file: ../content/introduction/index.md
@@ -36,3 +36,11 @@
   articles:
     - file: ../content/utilisation/index.md
 
+- id: explications
+  title: Pour aller plus loin
+  description: Les paramètres importants d'un vélo
+  icon: "IoMdSpeedometer"
+  articles:
+    - file: ../content/explications/index.md
+    - file: ../content/explications/position.md
+    - file: ../content/explications/choisir_cadre.md

@@ -122,4 +122,5 @@ export {
 
 export { MdDirectionsBike } from "react-icons/md";
 export { GoTools } from "react-icons/go";
+export { IoMdSpeedometer } from "react-icons/io";
 
