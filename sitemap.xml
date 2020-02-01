@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.bikecomparator.com/doc/articles/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.bikecomparator.com/doc/articles/utilisation/geometrie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.bikecomparator.com/doc/articles/utilisation/position/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.bikecomparator.com/doc/articles/utilisation/resultats/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.bikecomparator.com/doc/articles/explications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.bikecomparator.com/doc/articles/explications/choisir_cadre/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.bikecomparator.com/doc/articles/explications/position/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.bikecomparator.com/doc/collections/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.bikecomparator.com/doc/collections/explications</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.bikecomparator.com/doc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/articles/utilisation/position/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/articles/utilisation/geometrie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/articles/utilisation/resultats/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/articles/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/articles/explications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/articles/explications/choisir_cadre/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/articles/explications/position/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/collections/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/collections/explications</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://doc.bikecomparator.com/bike-comparator-documentation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
