@@ -28,19 +28,36 @@
   icon: "MdDirectionsBike"
   articles:
     - file: ../content/introduction/index.md
+  sections:
+    - id: used-as-the-hashtag-of-the-land-animals-section
+      title: "Utiliser le comparateur"
+      articles:
+        - file: ../content/utilisation/position.md
+        - file: ../content/utilisation/geometrie.md
+        - file: ../content/utilisation/resultats.md
 
-- id: utilisation
-  title: Utiliser le comparateur
-  description: Régler son nouveau vélo à l'identique
-  icon: "GoTools"
-  articles:
-    - file: ../content/utilisation/index.md
+#- id: introduction_old
+#  title: Bien choisir son prochain vélo
+#  description: Trouver le cadre idéal
+#  icon: "MdDirectionsBike"
+#  articles:
+#    - file: ../content/introduction/index.md
+#
+#- id: utilisation
+#  title: Utiliser le comparateur
+#  description: Régler son nouveau vélo à l'identique
+#  icon: "GoTools"
+#  articles:
+#    - file: ../content/utilisation/position.md
+#    - file: ../content/utilisation/geometrie.md
+#    - file: ../content/utilisation/resultats.md
 
 - id: explications
   title: Pour aller plus loin
   description: Les paramètres importants d'un vélo
-  icon: "IoMdSpeedometer"
+#  icon: "IoMdSpeedometer"
+  icon: "GoTools"
   articles:
     - file: ../content/explications/index.md
-    - file: ../content/explications/position.md
+#    - file: ../content/explications/position.md
     - file: ../content/explications/choisir_cadre.md

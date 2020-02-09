@@ -3,7 +3,9 @@ module.exports = {
     title: `Bike Comparator Documentation`,
     author: `Pierre-Etienne Moreau`,
     description: `Bike Comparator : pour bien régler votre prochain vélo`,
-    siteUrl: `https://pemoreau.github.io/bike-comparator-documentation/`,
+    siteUrl: `https://support.bikecomparator.com/`,
+    // siteUrl: `https://www.bikecomparator.com/bike-comparator-documentation/`,
+    // siteUrl: `https://pemoreau.github.io/bike-comparator-documentation/`,
     language: "fr",
     texts: {
       allCollectionsText: "Toutes les Collections",
@@ -17,6 +19,8 @@ module.exports = {
       articlesInCollectionMultipleText: "articles dans cette collection",
     },
   },
+  // pathPrefix: "/bike-comparator-documentation",
+  pathPrefix: "",
   mapping: {
     "MarkdownRemark.frontmatter.author": `AuthorsYaml`,
     "MarkdownRemark.frontmatter.collection": `CollectionsYaml`,
@@ -97,5 +101,4 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/bike-comparator-documentation",
 }
